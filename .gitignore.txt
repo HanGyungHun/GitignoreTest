@@ -1,0 +1,27 @@
+
+### Eclipse ###
+.metadata
+build/
+*.classpath
+*.gitignore
+*.project
+*~.nib
+local.properties
+.settings/
+
+
+# Uncomment this line if you wish to ignore the project description file.
+# Typically, this file would be tracked if it contains build/dependency configurations:
+#.project
+
+
+# Log file
+*.properties
+
+
+
+# Package Files #
+*.jar
+*.war
+*.zip
+
